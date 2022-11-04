@@ -1,2 +1,2 @@
 # dio-trilha-java-basico
-Repositório de xercícios do bootcamp DIO
+Repositório de exercícios do bootcamp DIO
